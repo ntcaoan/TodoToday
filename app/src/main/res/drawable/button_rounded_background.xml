@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!-- button_rounded_background.xml -->
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <solid android:color="@color/black" /> <!-- Set the background color of the button -->
+        <corners android:radius="20dp" /> <!-- Set the radius value for rounded corners -->
+    </shape>
+
